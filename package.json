@@ -1,0 +1,25 @@
+{
+  "name": "cypressintroproj",
+  "version": "1.0.0",
+  "description": "My first experience with Cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmigoSerhio/cypress-intro.git"
+  },
+  "author": "Amigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmigoSerhio/cypress-intro/issues"
+  },
+  "homepage": "https://github.com/AmigoSerhio/cypress-intro#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  },
+
+  "chromeWebSecurity": false
+
+}

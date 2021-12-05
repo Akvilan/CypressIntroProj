@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "vvfxzQbfAkdpZYEskxhDPwp4A-0",
+    "from": [
+      {
+        "address": "noreply@anonymousemail.me",
+        "name": "Anonymousemail"
+      }
+    ],
+    "to": [
+      {
+        "address": "qa+testcyrequest111111111@mailsac.com",
+        "name": ""
+      }
+    ],
+    "cc": [],
+    "bcc": [],
+    "subject": "TesterTester",
+    "savedBy": null,
+    "inbox": "qa+testcyrequest111111111@mailsac.com",
+    "originalInbox": "qa+testcyrequest111111111@mailsac.com",
+    "domain": "mailsac.com",
+    "received": "2021-12-05T20:20:33.818Z",
+    "size": 2265,
+    "attachments": [],
+    "ip": "202.61.207.162",
+    "via": "172.31.42.57",
+    "folder": "inbox",
+    "labels": [],
+    "read": null,
+    "rtls": true,
+    "links": [
+      "https://docs.cypress.io/guides/getting-started/writing-your-first-test#Step-4-Make-an-assertion",
+      "https://anonymousemail.me/premium.php?source=email"
+    ],
+    "spam": 0
+  }
+]
